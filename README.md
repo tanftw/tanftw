@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @tanftw
-- 👀 I’m interested in TypeScript, Node.js
-- 🌱 I’m currently learning marketing
+I'm Tan Nguyen (新阮).
 
+My favourite language is TypeScript, I love Microsoft & Cloudflare products.
+
+tan.ng
