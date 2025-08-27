@@ -1,5 +1,7 @@
-I'm Tan Nguyen (新阮).
+After a long time suffering the pain of indiscipline, I am now ready to return as the best version of myself.
 
-My favourite language is TypeScript, I love Microsoft & Cloudflare products.
-
-tan.ng
+### My journey forward:
+- **Defeat my former, weaker self.**
+- Slay the dragon.
+- Become a ruler.
+- Conquer.
